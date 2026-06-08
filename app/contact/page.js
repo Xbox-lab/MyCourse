@@ -40,6 +40,7 @@ export default function Page() {
                         className='shadow-2xl pr-32 ml-20 pl-24 my-10 mx-10 border-2 rounded-4xl'
                         method='POST'
                         action='https://formspree.io/f/mdajgkwn'
+                        netlify
                     >
 
                         <p className='pt-4'>Name</p>
