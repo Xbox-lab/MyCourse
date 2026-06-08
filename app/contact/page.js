@@ -24,12 +24,15 @@ export default function Page() {
                     </p>
 
                     <Image
-                        className='mb-14'
+                        className='mb-4'
                         src={contact}
                         width={500}
                         height={1200}
                         alt='contact-us'
                     />
+                    <p>you can also Contact us at aadhavnaadhira@gmail.com
+                        for any kind of help
+                    </p>
                 </div>
 
                 <div>
