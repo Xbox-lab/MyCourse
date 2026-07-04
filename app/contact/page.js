@@ -5,7 +5,7 @@ import contact from '@/public/contact.webp'
 export default function Page() {
     return (
         <>
-            <div className='flex flex-row'>
+            <div className='flex flex-col w-full sm:flex-row '>
 
                 <div className='mx-36 mt-10'>
                     <h1 className='text-3xl font-semibold mb-2'>
